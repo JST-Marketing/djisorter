@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "launcher_min": 1,
+  "notes": "Time remaining, Facebook copies, automatic updates.",
+  "files": {
+    "dji_sorter.py": "920d4c6afd6000eedbd3e7bf9a91571a30676f4558043c0ba55e7f96fec72348",
+    "sorter_core.py": "6b1afbd956b3b96cc24247702128dc400a1bc1446fc99f672116c6fc896326ea"
+  }
+}
